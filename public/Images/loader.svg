@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="215.017px" height="216px" viewBox="0 0 215.017 216" enable-background="new 0 0 215.017 216" xml:space="preserve">
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="33.378,140.702 25.965,133.236 25.965,85.513 
+	33.378,78.048 "/>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="191.088,85.513 191.088,133.236 183.677,140.702 
+	183.677,78.096 "/>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="132.068,192.612 84.988,192.612 77.523,185.147 
+	139.485,185.147 "/>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="84.641,26.487 132.417,26.487 139.834,33.953 
+	77.224,33.953 "/>
+<path opacity="0.4" fill="#989898" enable-background="new    " d="M50.697,33.953c-9.555,0-17.319,7.814-17.319,17.418v16.126
+	l-7.414,7.465V51.371c0-13.686,11.098-24.884,24.737-24.884h23.436l-7.409,7.466H50.697z"/>
+<path opacity="0.4" fill="#989898" enable-background="new    " d="M183.677,51.371c0-9.604-7.762-17.418-17.37-17.418h-15.975
+	l-7.417-7.466h23.392c13.687,0,24.781,11.198,24.781,24.884v23.591l-7.411-7.465V51.371L183.677,51.371z"/>
+<path opacity="0.4" fill="#989898" enable-background="new    " d="M33.378,167.729c0,9.604,7.769,17.419,17.319,17.419h16.369
+	l7.417,7.465H50.697c-13.634,0-24.737-11.197-24.737-24.884v-23.936l7.414,7.465v16.471H33.378z"/>
+<path opacity="0.4" fill="#989898" enable-background="new    " d="M166.307,185.147c9.608,0,17.37-7.815,17.37-17.419v-16.471
+	l7.411-7.465v23.936c0,13.687-11.095,24.884-24.781,24.884h-23.741l7.416-7.465H166.307z"/>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="150.333,33.953 183.677,67.497 183.677,78.096 
+	139.834,33.953 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.125s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="183.677,151.258 149.982,185.147 139.485,185.147 
+	183.677,140.702 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.375s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="67.066,185.147 33.378,151.258 33.378,140.702 
+	77.523,185.147 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.725s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="33.378,67.497 66.724,33.953 77.224,33.953 
+	33.378,78.048 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="1.175s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<path opacity="0.4" fill="#989898" enable-background="new    " d="M120.773,14.793c-3.237-3.285-7.616-5.077-12.247-5.077
+	c-4.676,0-9.011,1.792-12.297,5.077L84.636,26.487H74.133L91.009,9.518c9.356-9.358,25.681-9.358,34.983,0l16.923,16.969h-10.498
+	L120.773,14.793z">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+		</animate>
+</path>
+<path opacity="0.4" fill="#989898" enable-background="new    " d="M202.539,121.694c6.766-6.771,6.766-17.869,0-24.636
+	l-11.451-11.545V74.961l16.718,16.821c9.613,9.705,9.613,25.484,0,35.184l-16.718,16.826v-10.557L202.539,121.694z">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.25s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+		</animate>
+</path>
+<path opacity="0.4" fill="#989898" enable-background="new    " d="M96.234,203.961c6.52,6.561,18.017,6.561,24.539,0l11.3-11.349
+	h10.493l-16.568,16.621c-4.632,4.681-10.853,7.267-17.472,7.267c-6.618,0-12.838-2.586-17.517-7.267l-16.521-16.621h10.5
+	L96.234,203.961z">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.500s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+		</animate>
+</path>
+<path opacity="0.4" fill="#989898" enable-background="new    " d="M9.241,91.783L25.96,74.961v10.552L14.463,97.059
+	c-6.724,6.767-6.724,17.865,0,24.636l11.497,11.542v10.557L9.241,126.962C-0.414,117.267-0.414,101.488,9.241,91.783z">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.950s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+		</animate>
+</path>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="139.834,33.953 132.417,26.487 142.916,26.487 
+	150.333,33.953 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="183.677,78.096 183.677,67.497 191.088,74.961 
+	191.088,85.513 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.125s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="183.677,140.702 191.088,133.236 191.088,143.793 
+	183.677,151.258 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.25s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="139.485,185.147 149.982,185.147 142.566,192.612 
+	132.068,192.612 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.375s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="33.378,140.702 33.378,151.258 25.965,143.793 
+	25.965,133.236 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.725s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="77.523,185.147 84.988,192.612 74.488,192.612 
+	67.066,185.147 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.500s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="33.378,78.048 25.965,85.513 25.965,74.961 
+	33.378,67.497 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="0.950s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+<polygon opacity="0.4" fill="#989898" enable-background="new    " points="77.224,33.953 66.724,33.953 74.133,26.487 
+	84.641,26.487 ">
+<animate  fill="remove" restart="always" calcMode="linear" additive="replace" accumulate="none" begin="1.175s" repeatCount="indefinite" dur=".6s" to="1" from=".4" attributeName="opacity">
+	</animate>
+</polygon>
+</svg>

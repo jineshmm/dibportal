@@ -1,0 +1,19 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "outFile": "public/js/dibcustom/dib_dashboard.js",
+        "sourceMap": false,
+        "target": "ES5",
+        "diagnostics": true,
+        "allowJs": true,
+        "strict": false,
+        "checkJs": true,
+        "noEmitOnError": false
+    },
+    "files": [
+        "Typescript/dashboard.ts"
+    ]
+}
